@@ -477,6 +477,8 @@ h1{
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 9px 12px rgba(0, 0, 0, 0.1);
+  position : sticky;
+  top : 30px;
 }
 .order-price {
   display: flex;
